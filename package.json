@@ -1,18 +1,14 @@
 {
-  "name": "react-native-web-lottie",
+  "name": "@sparted/react-native-web-lottie",
   "version": "1.1.0",
   "description": "React Native for Web implementation of Lottie",
   "main": "dist/index.js",
   "main-es": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:react-native-web-community/react-native-web-lottie.git"
+    "url": "git+ssh://git@github.com/react-native-web-community/react-native-web-lottie.git"
   },
-  "author": {
-    "name": "Louis Lagrange",
-    "email": "lagrange.louis@gmail.com",
-    "url": "https://github.com/Minishlink"
-  },
+  "author": "Louis Lagrange <lagrange.louis@gmail.com> (https://github.com/Minishlink)",
   "license": "MIT",
   "keywords": [
     "react-native",
@@ -56,5 +52,12 @@
   },
   "dependencies": {
     "lottie-web": "^5.4.4"
+  },
+  "bugs": {
+    "url": "https://github.com/react-native-web-community/react-native-web-lottie/issues"
+  },
+  "homepage": "https://github.com/react-native-web-community/react-native-web-lottie#readme",
+  "directories": {
+    "doc": "docs"
   }
 }
